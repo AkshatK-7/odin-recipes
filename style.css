@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+ol {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
