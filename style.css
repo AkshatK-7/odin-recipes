@@ -9,4 +9,10 @@ ol {
     color: red;
     font-size: 24px;
     font-weight: bold;
+    display: flex;
+
+}
+
+*{
+    border: 2px solid red;
 }
